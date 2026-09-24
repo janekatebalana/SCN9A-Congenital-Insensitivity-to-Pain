@@ -1,0 +1,14 @@
+ WT vs Documented Mutant SCN9A Protein Sequence Comparison
+===============================================================================
+Gene: SCN9A
+Reference transcript: NM_002977.3
+Reference protein: NP_002968.1
+Documented variant: NM_002977.3(SCN9A):c.2674A>G
+Protein consequence: NP_002968.1:p.Ile892Met
+Mutation type: Missense mutation
+WT protein length: 1977 amino acids
+Mutant protein length: 1977 amino acids
+WT sequence around mutation: KLISTFVIIMFRGL
+Mutant sequence around mutation: KLISTFVIMMFRGL
+The WT and mutant proteins are identical up to amino acid position 891. At position 892, isoleucine (I) is replaced by methionine (M).
+The reading frame and protein length remain unchanged, and no premature stop codon is produced.
